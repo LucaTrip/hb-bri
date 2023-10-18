@@ -149,7 +149,7 @@ export default function ZodiacalRender() {
             ) : (
               <>
                 <p className="py-5">
-                  Ora che sai come vestirti, fammi sapere se vieni o no:
+                  Ora che sai come vestirti, fammi sapere se vieni:
                 </p>
 
                 <div className="flex flex-col gap-3">

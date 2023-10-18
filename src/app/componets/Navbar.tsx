@@ -37,6 +37,7 @@ export default function Navbar() {
         })
         .then(async (res) => {
           const allParticipant: Choice[] = await res.json();
+          console.log("dasdsad", allParticipant);
           setAllParticipant(allParticipant || []);
         })
         .catch((error) => {
