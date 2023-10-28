@@ -1,6 +1,6 @@
 "use client";
 
-import { useCallback, useEffect, useState } from "react";
+import { useEffect, useState } from "react";
 import ZodiacalButton from "./ZodiacalButton";
 import Image from "next/image";
 
@@ -12,7 +12,7 @@ import Gemini from "../assets/gemini.jpg";
 import Leo from "../assets/leo.jpg";
 import Libra from "../assets/libra.jpg";
 import Pisces from "../assets/pisces.jpg";
-import Sagittarius from "../assets/sagittarius.jpg";
+import Sagittarius from "../assets/sagittarius.jpeg";
 import Scorpio from "../assets/scorpio.jpg";
 import Taurus from "../assets/taurus.jpg";
 import Virgo from "../assets/virgo.jpg";
@@ -30,7 +30,6 @@ import BSagittarius from "../assets/b-sagittarius.png";
 import BScorpio from "../assets/b-scorpio.png";
 import BTaurus from "../assets/b-taurus.png";
 import BVirgo from "../assets/b-virgo.png";
-import { connect } from "../utils/helper";
 
 const zodiacalSigns = [
   { id: "aries", img: BAries },
