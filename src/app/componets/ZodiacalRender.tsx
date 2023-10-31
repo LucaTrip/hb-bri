@@ -11,7 +11,7 @@ import Capricorn from "../assets/capricorn.jpg";
 import Gemini from "../assets/gemini.jpg";
 import Leo from "../assets/leo.jpg";
 import Libra from "../assets/libra.jpg";
-import Pisces from "../assets/pisces.jpg";
+import Pisces from "../assets/pisces.jpeg";
 import Sagittarius from "../assets/sagittarius.jpeg";
 import Scorpio from "../assets/scorpio.jpg";
 import Taurus from "../assets/taurus.jpg";
